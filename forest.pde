@@ -7,7 +7,7 @@
 
 float x = 0;
 float y = 100;
-float speed = 0.8;
+float speed = 0.8; // speed of trees and road
 
 
 
